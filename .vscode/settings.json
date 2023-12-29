@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\issan\\Documents\\Fr Project\\MG2D_2.9\\MG2D.jar"
+    ]
+}
